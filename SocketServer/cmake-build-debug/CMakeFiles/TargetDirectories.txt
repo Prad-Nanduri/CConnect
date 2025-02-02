@@ -1,0 +1,3 @@
+/home/subra/Desktop/SocketCProjects/SocketServer/cmake-build-debug/CMakeFiles/SocketServer.dir
+/home/subra/Desktop/SocketCProjects/SocketServer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/subra/Desktop/SocketCProjects/SocketServer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
